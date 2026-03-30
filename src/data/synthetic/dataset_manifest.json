@@ -1,0 +1,582 @@
+[
+  {
+    "scene_id": 0,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      195.51
+    ],
+    "snr_db": 0.38,
+    "mix_path": "data/synthetic\\scene_0000_mix.wav"
+  },
+  {
+    "scene_id": 1,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      454.72
+    ],
+    "snr_db": 10.15,
+    "mix_path": "data/synthetic\\scene_0001_mix.wav"
+  },
+  {
+    "scene_id": 2,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      119.35,
+      177.72,
+      332.85,
+      315.72
+    ],
+    "snr_db": 0.48,
+    "mix_path": "data/synthetic\\scene_0002_mix.wav"
+  },
+  {
+    "scene_id": 3,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      82.73,
+      418.44,
+      373.22
+    ],
+    "snr_db": 12.14,
+    "mix_path": "data/synthetic\\scene_0003_mix.wav"
+  },
+  {
+    "scene_id": 4,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      239.57,
+      230.77,
+      224.46
+    ],
+    "snr_db": 1.53,
+    "mix_path": "data/synthetic\\scene_0004_mix.wav"
+  },
+  {
+    "scene_id": 5,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      238.98
+    ],
+    "snr_db": 14.6,
+    "mix_path": "data/synthetic\\scene_0005_mix.wav"
+  },
+  {
+    "scene_id": 6,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      375.92,
+      99.25,
+      175.72
+    ],
+    "snr_db": 8.66,
+    "mix_path": "data/synthetic\\scene_0006_mix.wav"
+  },
+  {
+    "scene_id": 7,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      270.43
+    ],
+    "snr_db": 5.7,
+    "mix_path": "data/synthetic\\scene_0007_mix.wav"
+  },
+  {
+    "scene_id": 8,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      167.99,
+      192.13
+    ],
+    "snr_db": 5.55,
+    "mix_path": "data/synthetic\\scene_0008_mix.wav"
+  },
+  {
+    "scene_id": 9,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      182.82,
+      274.15
+    ],
+    "snr_db": 8.01,
+    "mix_path": "data/synthetic\\scene_0009_mix.wav"
+  },
+  {
+    "scene_id": 10,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      434.0,
+      405.92
+    ],
+    "snr_db": 10.27,
+    "mix_path": "data/synthetic\\scene_0010_mix.wav"
+  },
+  {
+    "scene_id": 11,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      107.8,
+      463.52,
+      318.22
+    ],
+    "snr_db": 6.02,
+    "mix_path": "data/synthetic\\scene_0011_mix.wav"
+  },
+  {
+    "scene_id": 12,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      138.64,
+      392.9,
+      306.37,
+      393.75
+    ],
+    "snr_db": 2.14,
+    "mix_path": "data/synthetic\\scene_0012_mix.wav"
+  },
+  {
+    "scene_id": 13,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      118.18,
+      99.79
+    ],
+    "snr_db": 7.64,
+    "mix_path": "data/synthetic\\scene_0013_mix.wav"
+  },
+  {
+    "scene_id": 14,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      241.6,
+      330.27,
+      276.58,
+      185.59
+    ],
+    "snr_db": 8.95,
+    "mix_path": "data/synthetic\\scene_0014_mix.wav"
+  },
+  {
+    "scene_id": 15,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      222.87,
+      203.27,
+      146.43
+    ],
+    "snr_db": 11.53,
+    "mix_path": "data/synthetic\\scene_0015_mix.wav"
+  },
+  {
+    "scene_id": 16,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      124.69,
+      342.63
+    ],
+    "snr_db": 7.62,
+    "mix_path": "data/synthetic\\scene_0016_mix.wav"
+  },
+  {
+    "scene_id": 17,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      400.25,
+      306.54
+    ],
+    "snr_db": 2.29,
+    "mix_path": "data/synthetic\\scene_0017_mix.wav"
+  },
+  {
+    "scene_id": 18,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      285.21
+    ],
+    "snr_db": 8.98,
+    "mix_path": "data/synthetic\\scene_0018_mix.wav"
+  },
+  {
+    "scene_id": 19,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      429.3,
+      209.16,
+      104.33
+    ],
+    "snr_db": 13.18,
+    "mix_path": "data/synthetic\\scene_0019_mix.wav"
+  },
+  {
+    "scene_id": 20,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      490.75,
+      303.74,
+      132.82,
+      357.1
+    ],
+    "snr_db": 12.24,
+    "mix_path": "data/synthetic\\scene_0020_mix.wav"
+  },
+  {
+    "scene_id": 21,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      397.21,
+      369.74
+    ],
+    "snr_db": 13.93,
+    "mix_path": "data/synthetic\\scene_0021_mix.wav"
+  },
+  {
+    "scene_id": 22,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      297.38,
+      130.82,
+      174.37
+    ],
+    "snr_db": 6.57,
+    "mix_path": "data/synthetic\\scene_0022_mix.wav"
+  },
+  {
+    "scene_id": 23,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      377.29,
+      104.73
+    ],
+    "snr_db": 0.11,
+    "mix_path": "data/synthetic\\scene_0023_mix.wav"
+  },
+  {
+    "scene_id": 24,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      179.96,
+      360.97,
+      169.98
+    ],
+    "snr_db": 1.06,
+    "mix_path": "data/synthetic\\scene_0024_mix.wav"
+  },
+  {
+    "scene_id": 25,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      278.65,
+      250.97,
+      119.62,
+      356.77
+    ],
+    "snr_db": 3.64,
+    "mix_path": "data/synthetic\\scene_0025_mix.wav"
+  },
+  {
+    "scene_id": 26,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      385.85
+    ],
+    "snr_db": 0.91,
+    "mix_path": "data/synthetic\\scene_0026_mix.wav"
+  },
+  {
+    "scene_id": 27,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      159.89
+    ],
+    "snr_db": 3.73,
+    "mix_path": "data/synthetic\\scene_0027_mix.wav"
+  },
+  {
+    "scene_id": 28,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      274.3,
+      447.28,
+      111.66,
+      419.37
+    ],
+    "snr_db": 2.75,
+    "mix_path": "data/synthetic\\scene_0028_mix.wav"
+  },
+  {
+    "scene_id": 29,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      469.07
+    ],
+    "snr_db": 14.53,
+    "mix_path": "data/synthetic\\scene_0029_mix.wav"
+  },
+  {
+    "scene_id": 30,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      282.17,
+      443.15
+    ],
+    "snr_db": 6.1,
+    "mix_path": "data/synthetic\\scene_0030_mix.wav"
+  },
+  {
+    "scene_id": 31,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      191.39
+    ],
+    "snr_db": 14.78,
+    "mix_path": "data/synthetic\\scene_0031_mix.wav"
+  },
+  {
+    "scene_id": 32,
+    "n_drones": 4,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3",
+      "drone_4"
+    ],
+    "base_freqs": [
+      372.57,
+      386.81,
+      409.01,
+      357.99
+    ],
+    "snr_db": 4.28,
+    "mix_path": "data/synthetic\\scene_0032_mix.wav"
+  },
+  {
+    "scene_id": 33,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      104.01
+    ],
+    "snr_db": 11.22,
+    "mix_path": "data/synthetic\\scene_0033_mix.wav"
+  },
+  {
+    "scene_id": 34,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      293.29,
+      437.56
+    ],
+    "snr_db": 0.85,
+    "mix_path": "data/synthetic\\scene_0034_mix.wav"
+  },
+  {
+    "scene_id": 35,
+    "n_drones": 2,
+    "drone_types": [
+      "drone_1",
+      "drone_2"
+    ],
+    "base_freqs": [
+      475.47,
+      319.26
+    ],
+    "snr_db": 6.06,
+    "mix_path": "data/synthetic\\scene_0035_mix.wav"
+  },
+  {
+    "scene_id": 36,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      325.14
+    ],
+    "snr_db": 6.29,
+    "mix_path": "data/synthetic\\scene_0036_mix.wav"
+  },
+  {
+    "scene_id": 37,
+    "n_drones": 3,
+    "drone_types": [
+      "drone_1",
+      "drone_2",
+      "drone_3"
+    ],
+    "base_freqs": [
+      380.8,
+      180.25,
+      246.23
+    ],
+    "snr_db": 3.06,
+    "mix_path": "data/synthetic\\scene_0037_mix.wav"
+  },
+  {
+    "scene_id": 38,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      340.89
+    ],
+    "snr_db": 0.14,
+    "mix_path": "data/synthetic\\scene_0038_mix.wav"
+  },
+  {
+    "scene_id": 39,
+    "n_drones": 1,
+    "drone_types": [
+      "drone_1"
+    ],
+    "base_freqs": [
+      169.52
+    ],
+    "snr_db": 1.1,
+    "mix_path": "data/synthetic\\scene_0039_mix.wav"
+  }
+]

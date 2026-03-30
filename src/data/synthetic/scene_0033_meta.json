@@ -1,0 +1,12 @@
+{
+  "scene_id": 33,
+  "n_drones": 1,
+  "drone_types": [
+    "drone_1"
+  ],
+  "base_freqs": [
+    104.01
+  ],
+  "snr_db": 11.22,
+  "mix_path": "data/synthetic\\scene_0033_mix.wav"
+}
