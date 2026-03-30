@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Virutal environment
+venv/
+
+#Generated data & outputs
+data/synthetic/
+data/stems/
+outputs/
+
+#Model checkpoints
+*.pt
+*.pth
+
+#Jupyter
+.ipynb_checkpoints/
+
+#OS
+Thumbs.db
+
