@@ -224,3 +224,5 @@ outputs/
 #OS
 Thumbs.db
 
+outputs/*.pt
+outputs/*pth
