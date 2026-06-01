@@ -254,3 +254,5 @@ def explore_dataset(data_dir: str = REAL_DATA_DIR) -> None:
 
 if __name__ == "__main__":
     explore_dataset()
+
+RealScenesDataset = AuDroKDataset

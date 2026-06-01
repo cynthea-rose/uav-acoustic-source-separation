@@ -1,0 +1,1002 @@
+[
+  {
+    "scene_id": 0,
+    "drone_file": "1-19872-B-361.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 11.12,
+    "mix_path": "../data/scenes\\scene_0000_mix.wav",
+    "drone_path": "../data/scenes\\scene_0000_drone.wav",
+    "noise_path": "../data/scenes\\scene_0000_noise.wav"
+  },
+  {
+    "scene_id": 1,
+    "drone_file": "1-35687-A-384.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 11.05,
+    "mix_path": "../data/scenes\\scene_0001_mix.wav",
+    "drone_path": "../data/scenes\\scene_0001_drone.wav",
+    "noise_path": "../data/scenes\\scene_0001_noise.wav"
+  },
+  {
+    "scene_id": 2,
+    "drone_file": "1-18074-B-61.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Conversation",
+    "snr_db": 6.33,
+    "mix_path": "../data/scenes\\scene_0002_mix.wav",
+    "drone_path": "../data/scenes\\scene_0002_drone.wav",
+    "noise_path": "../data/scenes\\scene_0002_noise.wav"
+  },
+  {
+    "scene_id": 3,
+    "drone_file": "1-18631-A-233.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.49,
+    "mix_path": "../data/scenes\\scene_0003_mix.wav",
+    "drone_path": "../data/scenes\\scene_0003_drone.wav",
+    "noise_path": "../data/scenes\\scene_0003_noise.wav"
+  },
+  {
+    "scene_id": 4,
+    "drone_file": "2-109316-A-322.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.74,
+    "mix_path": "../data/scenes\\scene_0004_mix.wav",
+    "drone_path": "../data/scenes\\scene_0004_drone.wav",
+    "noise_path": "../data/scenes\\scene_0004_noise.wav"
+  },
+  {
+    "scene_id": 5,
+    "drone_file": "1-75190-A-83.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 6.74,
+    "mix_path": "../data/scenes\\scene_0005_mix.wav",
+    "drone_path": "../data/scenes\\scene_0005_drone.wav",
+    "noise_path": "../data/scenes\\scene_0005_noise.wav"
+  },
+  {
+    "scene_id": 6,
+    "drone_file": "1-101296-B-191.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.47,
+    "mix_path": "../data/scenes\\scene_0006_mix.wav",
+    "drone_path": "../data/scenes\\scene_0006_drone.wav",
+    "noise_path": "../data/scenes\\scene_0006_noise.wav"
+  },
+  {
+    "scene_id": 7,
+    "drone_file": "1-47709-A-163.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.23,
+    "mix_path": "../data/scenes\\scene_0007_mix.wav",
+    "drone_path": "../data/scenes\\scene_0007_drone.wav",
+    "noise_path": "../data/scenes\\scene_0007_noise.wav"
+  },
+  {
+    "scene_id": 8,
+    "drone_file": "1-19026-A-433.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.7,
+    "mix_path": "../data/scenes\\scene_0008_mix.wav",
+    "drone_path": "../data/scenes\\scene_0008_drone.wav",
+    "noise_path": "../data/scenes\\scene_0008_noise.wav"
+  },
+  {
+    "scene_id": 9,
+    "drone_file": "1-56311-A-103.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Conversation",
+    "snr_db": 3.97,
+    "mix_path": "../data/scenes\\scene_0009_mix.wav",
+    "drone_path": "../data/scenes\\scene_0009_drone.wav",
+    "noise_path": "../data/scenes\\scene_0009_noise.wav"
+  },
+  {
+    "scene_id": 10,
+    "drone_file": "1-85909-A-290.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 1.87,
+    "mix_path": "../data/scenes\\scene_0010_mix.wav",
+    "drone_path": "../data/scenes\\scene_0010_drone.wav",
+    "noise_path": "../data/scenes\\scene_0010_noise.wav"
+  },
+  {
+    "scene_id": 11,
+    "drone_file": "1-17585-A-72.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 4.4,
+    "mix_path": "../data/scenes\\scene_0011_mix.wav",
+    "drone_path": "../data/scenes\\scene_0011_drone.wav",
+    "noise_path": "../data/scenes\\scene_0011_noise.wav"
+  },
+  {
+    "scene_id": 12,
+    "drone_file": "2-110613-A-133.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.57,
+    "mix_path": "../data/scenes\\scene_0012_mix.wav",
+    "drone_path": "../data/scenes\\scene_0012_drone.wav",
+    "noise_path": "../data/scenes\\scene_0012_noise.wav"
+  },
+  {
+    "scene_id": 13,
+    "drone_file": "1-36397-A-233.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 14.78,
+    "mix_path": "../data/scenes\\scene_0013_mix.wav",
+    "drone_path": "../data/scenes\\scene_0013_drone.wav",
+    "noise_path": "../data/scenes\\scene_0013_noise.wav"
+  },
+  {
+    "scene_id": 14,
+    "drone_file": "1-18810-A-493.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 4.17,
+    "mix_path": "../data/scenes\\scene_0014_mix.wav",
+    "drone_path": "../data/scenes\\scene_0014_drone.wav",
+    "noise_path": "../data/scenes\\scene_0014_noise.wav"
+  },
+  {
+    "scene_id": 15,
+    "drone_file": "1-260640-A-21.wav",
+    "bg_file": "ou--Mi6.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.33,
+    "mix_path": "../data/scenes\\scene_0015_mix.wav",
+    "drone_path": "../data/scenes\\scene_0015_drone.wav",
+    "noise_path": "../data/scenes\\scene_0015_noise.wav"
+  },
+  {
+    "scene_id": 16,
+    "drone_file": "1-172649-D-402.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Conversation",
+    "snr_db": 9.52,
+    "mix_path": "../data/scenes\\scene_0016_mix.wav",
+    "drone_path": "../data/scenes\\scene_0016_drone.wav",
+    "noise_path": "../data/scenes\\scene_0016_noise.wav"
+  },
+  {
+    "scene_id": 17,
+    "drone_file": "1-40621-A-282.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 6.93,
+    "mix_path": "../data/scenes\\scene_0017_mix.wav",
+    "drone_path": "../data/scenes\\scene_0017_drone.wav",
+    "noise_path": "../data/scenes\\scene_0017_noise.wav"
+  },
+  {
+    "scene_id": 18,
+    "drone_file": "2-109231-A-90.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.27,
+    "mix_path": "../data/scenes\\scene_0018_mix.wav",
+    "drone_path": "../data/scenes\\scene_0018_drone.wav",
+    "noise_path": "../data/scenes\\scene_0018_noise.wav"
+  },
+  {
+    "scene_id": 19,
+    "drone_file": "1-36400-A-233.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 12.08,
+    "mix_path": "../data/scenes\\scene_0019_mix.wav",
+    "drone_path": "../data/scenes\\scene_0019_drone.wav",
+    "noise_path": "../data/scenes\\scene_0019_noise.wav"
+  },
+  {
+    "scene_id": 20,
+    "drone_file": "1-46353-A-491.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.16,
+    "mix_path": "../data/scenes\\scene_0020_mix.wav",
+    "drone_path": "../data/scenes\\scene_0020_drone.wav",
+    "noise_path": "../data/scenes\\scene_0020_noise.wav"
+  },
+  {
+    "scene_id": 21,
+    "drone_file": "1-51805-F-333.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 9.83,
+    "mix_path": "../data/scenes\\scene_0021_mix.wav",
+    "drone_path": "../data/scenes\\scene_0021_drone.wav",
+    "noise_path": "../data/scenes\\scene_0021_noise.wav"
+  },
+  {
+    "scene_id": 22,
+    "drone_file": "1-85362-A-03.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.97,
+    "mix_path": "../data/scenes\\scene_0022_mix.wav",
+    "drone_path": "../data/scenes\\scene_0022_drone.wav",
+    "noise_path": "../data/scenes\\scene_0022_noise.wav"
+  },
+  {
+    "scene_id": 23,
+    "drone_file": "2-109316-A-323.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 3.94,
+    "mix_path": "../data/scenes\\scene_0023_mix.wav",
+    "drone_path": "../data/scenes\\scene_0023_drone.wav",
+    "noise_path": "../data/scenes\\scene_0023_noise.wav"
+  },
+  {
+    "scene_id": 24,
+    "drone_file": "2-114254-A-304.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 5.43,
+    "mix_path": "../data/scenes\\scene_0024_mix.wav",
+    "drone_path": "../data/scenes\\scene_0024_drone.wav",
+    "noise_path": "../data/scenes\\scene_0024_noise.wav"
+  },
+  {
+    "scene_id": 25,
+    "drone_file": "2-102581-B-291.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Conversation",
+    "snr_db": 1.36,
+    "mix_path": "../data/scenes\\scene_0025_mix.wav",
+    "drone_path": "../data/scenes\\scene_0025_drone.wav",
+    "noise_path": "../data/scenes\\scene_0025_noise.wav"
+  },
+  {
+    "scene_id": 26,
+    "drone_file": "1-19840-A-364.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 9.41,
+    "mix_path": "../data/scenes\\scene_0026_mix.wav",
+    "drone_path": "../data/scenes\\scene_0026_drone.wav",
+    "noise_path": "../data/scenes\\scene_0026_noise.wav"
+  },
+  {
+    "scene_id": 27,
+    "drone_file": "2-117615-C-481.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.77,
+    "mix_path": "../data/scenes\\scene_0027_mix.wav",
+    "drone_path": "../data/scenes\\scene_0027_drone.wav",
+    "noise_path": "../data/scenes\\scene_0027_noise.wav"
+  },
+  {
+    "scene_id": 28,
+    "drone_file": "2-106014-A-441.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 14.57,
+    "mix_path": "../data/scenes\\scene_0028_mix.wav",
+    "drone_path": "../data/scenes\\scene_0028_drone.wav",
+    "noise_path": "../data/scenes\\scene_0028_noise.wav"
+  },
+  {
+    "scene_id": 29,
+    "drone_file": "1-19898-B-414.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Conversation",
+    "snr_db": 13.27,
+    "mix_path": "../data/scenes\\scene_0029_mix.wav",
+    "drone_path": "../data/scenes\\scene_0029_drone.wav",
+    "noise_path": "../data/scenes\\scene_0029_noise.wav"
+  },
+  {
+    "scene_id": 30,
+    "drone_file": "1-56234-A-93.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 4.4,
+    "mix_path": "../data/scenes\\scene_0030_mix.wav",
+    "drone_path": "../data/scenes\\scene_0030_drone.wav",
+    "noise_path": "../data/scenes\\scene_0030_noise.wav"
+  },
+  {
+    "scene_id": 31,
+    "drone_file": "1-84705-A-392.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 14.31,
+    "mix_path": "../data/scenes\\scene_0031_mix.wav",
+    "drone_path": "../data/scenes\\scene_0031_drone.wav",
+    "noise_path": "../data/scenes\\scene_0031_noise.wav"
+  },
+  {
+    "scene_id": 32,
+    "drone_file": "2-102414-G-174.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 7.62,
+    "mix_path": "../data/scenes\\scene_0032_mix.wav",
+    "drone_path": "../data/scenes\\scene_0032_drone.wav",
+    "noise_path": "../data/scenes\\scene_0032_noise.wav"
+  },
+  {
+    "scene_id": 33,
+    "drone_file": "1-50688-A-172.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Conversation",
+    "snr_db": 7.61,
+    "mix_path": "../data/scenes\\scene_0033_mix.wav",
+    "drone_path": "../data/scenes\\scene_0033_drone.wav",
+    "noise_path": "../data/scenes\\scene_0033_noise.wav"
+  },
+  {
+    "scene_id": 34,
+    "drone_file": "1-24076-A-431.wav",
+    "bg_file": "ou--Mi6.wav",
+    "noise_type": "Hoover",
+    "snr_db": 11.44,
+    "mix_path": "../data/scenes\\scene_0034_mix.wav",
+    "drone_path": "../data/scenes\\scene_0034_drone.wav",
+    "noise_path": "../data/scenes\\scene_0034_noise.wav"
+  },
+  {
+    "scene_id": 35,
+    "drone_file": "2-106015-A-441.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 8.98,
+    "mix_path": "../data/scenes\\scene_0035_mix.wav",
+    "drone_path": "../data/scenes\\scene_0035_drone.wav",
+    "noise_path": "../data/scenes\\scene_0035_noise.wav"
+  },
+  {
+    "scene_id": 36,
+    "drone_file": "1-110537-A-224.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 13.94,
+    "mix_path": "../data/scenes\\scene_0036_mix.wav",
+    "drone_path": "../data/scenes\\scene_0036_drone.wav",
+    "noise_path": "../data/scenes\\scene_0036_noise.wav"
+  },
+  {
+    "scene_id": 37,
+    "drone_file": "1-39901-B-110.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.61,
+    "mix_path": "../data/scenes\\scene_0037_mix.wav",
+    "drone_path": "../data/scenes\\scene_0037_drone.wav",
+    "noise_path": "../data/scenes\\scene_0037_noise.wav"
+  },
+  {
+    "scene_id": 38,
+    "drone_file": "1-17585-A-72.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.98,
+    "mix_path": "../data/scenes\\scene_0038_mix.wav",
+    "drone_path": "../data/scenes\\scene_0038_drone.wav",
+    "noise_path": "../data/scenes\\scene_0038_noise.wav"
+  },
+  {
+    "scene_id": 39,
+    "drone_file": "2-106019-A-130.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 1.93,
+    "mix_path": "../data/scenes\\scene_0039_mix.wav",
+    "drone_path": "../data/scenes\\scene_0039_drone.wav",
+    "noise_path": "../data/scenes\\scene_0039_noise.wav"
+  },
+  {
+    "scene_id": 40,
+    "drone_file": "2-108761-A-140.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.98,
+    "mix_path": "../data/scenes\\scene_0040_mix.wav",
+    "drone_path": "../data/scenes\\scene_0040_drone.wav",
+    "noise_path": "../data/scenes\\scene_0040_noise.wav"
+  },
+  {
+    "scene_id": 41,
+    "drone_file": "1-32579-A-292.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 11.33,
+    "mix_path": "../data/scenes\\scene_0041_mix.wav",
+    "drone_path": "../data/scenes\\scene_0041_drone.wav",
+    "noise_path": "../data/scenes\\scene_0041_noise.wav"
+  },
+  {
+    "scene_id": 42,
+    "drone_file": "1-51805-D-331.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 14.93,
+    "mix_path": "../data/scenes\\scene_0042_mix.wav",
+    "drone_path": "../data/scenes\\scene_0042_drone.wav",
+    "noise_path": "../data/scenes\\scene_0042_noise.wav"
+  },
+  {
+    "scene_id": 43,
+    "drone_file": "1-7974-B-493.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 6.77,
+    "mix_path": "../data/scenes\\scene_0043_mix.wav",
+    "drone_path": "../data/scenes\\scene_0043_drone.wav",
+    "noise_path": "../data/scenes\\scene_0043_noise.wav"
+  },
+  {
+    "scene_id": 44,
+    "drone_file": "1-36164-B-260.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.07,
+    "mix_path": "../data/scenes\\scene_0044_mix.wav",
+    "drone_path": "../data/scenes\\scene_0044_drone.wav",
+    "noise_path": "../data/scenes\\scene_0044_noise.wav"
+  },
+  {
+    "scene_id": 45,
+    "drone_file": "1-36402-A-232.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Conversation",
+    "snr_db": 3.3,
+    "mix_path": "../data/scenes\\scene_0045_mix.wav",
+    "drone_path": "../data/scenes\\scene_0045_drone.wav",
+    "noise_path": "../data/scenes\\scene_0045_noise.wav"
+  },
+  {
+    "scene_id": 46,
+    "drone_file": "1-160563-B-481.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 1.01,
+    "mix_path": "../data/scenes\\scene_0046_mix.wav",
+    "drone_path": "../data/scenes\\scene_0046_drone.wav",
+    "noise_path": "../data/scenes\\scene_0046_noise.wav"
+  },
+  {
+    "scene_id": 47,
+    "drone_file": "1-54084-A-423.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 7.71,
+    "mix_path": "../data/scenes\\scene_0047_mix.wav",
+    "drone_path": "../data/scenes\\scene_0047_drone.wav",
+    "noise_path": "../data/scenes\\scene_0047_noise.wav"
+  },
+  {
+    "scene_id": 48,
+    "drone_file": "1-9887-A-492.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 8.09,
+    "mix_path": "../data/scenes\\scene_0048_mix.wav",
+    "drone_path": "../data/scenes\\scene_0048_drone.wav",
+    "noise_path": "../data/scenes\\scene_0048_noise.wav"
+  },
+  {
+    "scene_id": 49,
+    "drone_file": "2-110417-B-284.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Conversation",
+    "snr_db": 3.64,
+    "mix_path": "../data/scenes\\scene_0049_mix.wav",
+    "drone_path": "../data/scenes\\scene_0049_drone.wav",
+    "noise_path": "../data/scenes\\scene_0049_noise.wav"
+  },
+  {
+    "scene_id": 50,
+    "drone_file": "1-72195-B-372.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 1.41,
+    "mix_path": "../data/scenes\\scene_0050_mix.wav",
+    "drone_path": "../data/scenes\\scene_0050_drone.wav",
+    "noise_path": "../data/scenes\\scene_0050_noise.wav"
+  },
+  {
+    "scene_id": 51,
+    "drone_file": "1-58792-A-241.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 6.17,
+    "mix_path": "../data/scenes\\scene_0051_mix.wav",
+    "drone_path": "../data/scenes\\scene_0051_drone.wav",
+    "noise_path": "../data/scenes\\scene_0051_noise.wav"
+  },
+  {
+    "scene_id": 52,
+    "drone_file": "1-18755-B-43.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 6.04,
+    "mix_path": "../data/scenes\\scene_0052_mix.wav",
+    "drone_path": "../data/scenes\\scene_0052_drone.wav",
+    "noise_path": "../data/scenes\\scene_0052_noise.wav"
+  },
+  {
+    "scene_id": 53,
+    "drone_file": "1-19840-A-362.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 2.87,
+    "mix_path": "../data/scenes\\scene_0053_mix.wav",
+    "drone_path": "../data/scenes\\scene_0053_drone.wav",
+    "noise_path": "../data/scenes\\scene_0053_noise.wav"
+  },
+  {
+    "scene_id": 54,
+    "drone_file": "1-82817-A-301.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 6.33,
+    "mix_path": "../data/scenes\\scene_0054_mix.wav",
+    "drone_path": "../data/scenes\\scene_0054_drone.wav",
+    "noise_path": "../data/scenes\\scene_0054_noise.wav"
+  },
+  {
+    "scene_id": 55,
+    "drone_file": "1-88409-A-453.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 13.12,
+    "mix_path": "../data/scenes\\scene_0055_mix.wav",
+    "drone_path": "../data/scenes\\scene_0055_drone.wav",
+    "noise_path": "../data/scenes\\scene_0055_noise.wav"
+  },
+  {
+    "scene_id": 56,
+    "drone_file": "1-81001-A-304.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 1.47,
+    "mix_path": "../data/scenes\\scene_0056_mix.wav",
+    "drone_path": "../data/scenes\\scene_0056_drone.wav",
+    "noise_path": "../data/scenes\\scene_0056_noise.wav"
+  },
+  {
+    "scene_id": 57,
+    "drone_file": "1-104089-B-220.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Hoover",
+    "snr_db": 13.9,
+    "mix_path": "../data/scenes\\scene_0057_mix.wav",
+    "drone_path": "../data/scenes\\scene_0057_drone.wav",
+    "noise_path": "../data/scenes\\scene_0057_noise.wav"
+  },
+  {
+    "scene_id": 58,
+    "drone_file": "1-26143-A-211.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 7.28,
+    "mix_path": "../data/scenes\\scene_0058_mix.wav",
+    "drone_path": "../data/scenes\\scene_0058_drone.wav",
+    "noise_path": "../data/scenes\\scene_0058_noise.wav"
+  },
+  {
+    "scene_id": 59,
+    "drone_file": "1-69760-A-162.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 2.47,
+    "mix_path": "../data/scenes\\scene_0059_mix.wav",
+    "drone_path": "../data/scenes\\scene_0059_drone.wav",
+    "noise_path": "../data/scenes\\scene_0059_noise.wav"
+  },
+  {
+    "scene_id": 60,
+    "drone_file": "1-67152-A-174.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 13.9,
+    "mix_path": "../data/scenes\\scene_0060_mix.wav",
+    "drone_path": "../data/scenes\\scene_0060_drone.wav",
+    "noise_path": "../data/scenes\\scene_0060_noise.wav"
+  },
+  {
+    "scene_id": 61,
+    "drone_file": "1-48298-A-463.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 10.45,
+    "mix_path": "../data/scenes\\scene_0061_mix.wav",
+    "drone_path": "../data/scenes\\scene_0061_drone.wav",
+    "noise_path": "../data/scenes\\scene_0061_noise.wav"
+  },
+  {
+    "scene_id": 62,
+    "drone_file": "1-24524-A-194.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 4.45,
+    "mix_path": "../data/scenes\\scene_0062_mix.wav",
+    "drone_path": "../data/scenes\\scene_0062_drone.wav",
+    "noise_path": "../data/scenes\\scene_0062_noise.wav"
+  },
+  {
+    "scene_id": 63,
+    "drone_file": "2-110614-B-81.wav",
+    "bg_file": "ou--Mi6.wav",
+    "noise_type": "Conversation",
+    "snr_db": 8.13,
+    "mix_path": "../data/scenes\\scene_0063_mix.wav",
+    "drone_path": "../data/scenes\\scene_0063_drone.wav",
+    "noise_path": "../data/scenes\\scene_0063_noise.wav"
+  },
+  {
+    "scene_id": 64,
+    "drone_file": "1-15689-B-44.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 8.76,
+    "mix_path": "../data/scenes\\scene_0064_mix.wav",
+    "drone_path": "../data/scenes\\scene_0064_drone.wav",
+    "noise_path": "../data/scenes\\scene_0064_noise.wav"
+  },
+  {
+    "scene_id": 65,
+    "drone_file": "2-106015-A-444.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 0.85,
+    "mix_path": "../data/scenes\\scene_0065_mix.wav",
+    "drone_path": "../data/scenes\\scene_0065_drone.wav",
+    "noise_path": "../data/scenes\\scene_0065_noise.wav"
+  },
+  {
+    "scene_id": 66,
+    "drone_file": "1-17742-A-123.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 1.03,
+    "mix_path": "../data/scenes\\scene_0066_mix.wav",
+    "drone_path": "../data/scenes\\scene_0066_drone.wav",
+    "noise_path": "../data/scenes\\scene_0066_noise.wav"
+  },
+  {
+    "scene_id": 67,
+    "drone_file": "1-38560-A-143.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Conversation",
+    "snr_db": 1.8,
+    "mix_path": "../data/scenes\\scene_0067_mix.wav",
+    "drone_path": "../data/scenes\\scene_0067_drone.wav",
+    "noise_path": "../data/scenes\\scene_0067_noise.wav"
+  },
+  {
+    "scene_id": 68,
+    "drone_file": "2-110614-B-80.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Conversation",
+    "snr_db": 0.6,
+    "mix_path": "../data/scenes\\scene_0068_mix.wav",
+    "drone_path": "../data/scenes\\scene_0068_drone.wav",
+    "noise_path": "../data/scenes\\scene_0068_noise.wav"
+  },
+  {
+    "scene_id": 69,
+    "drone_file": "1-75190-A-82.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Conversation",
+    "snr_db": 8.76,
+    "mix_path": "../data/scenes\\scene_0069_mix.wav",
+    "drone_path": "../data/scenes\\scene_0069_drone.wav",
+    "noise_path": "../data/scenes\\scene_0069_noise.wav"
+  },
+  {
+    "scene_id": 70,
+    "drone_file": "1-51805-H-330.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.06,
+    "mix_path": "../data/scenes\\scene_0070_mix.wav",
+    "drone_path": "../data/scenes\\scene_0070_drone.wav",
+    "noise_path": "../data/scenes\\scene_0070_noise.wav"
+  },
+  {
+    "scene_id": 71,
+    "drone_file": "1-39901-A-112.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.94,
+    "mix_path": "../data/scenes\\scene_0071_mix.wav",
+    "drone_path": "../data/scenes\\scene_0071_drone.wav",
+    "noise_path": "../data/scenes\\scene_0071_noise.wav"
+  },
+  {
+    "scene_id": 72,
+    "drone_file": "1-85184-A-391.wav",
+    "bg_file": "ou--Mi6.wav",
+    "noise_type": "Hoover",
+    "snr_db": 13.94,
+    "mix_path": "../data/scenes\\scene_0072_mix.wav",
+    "drone_path": "../data/scenes\\scene_0072_drone.wav",
+    "noise_path": "../data/scenes\\scene_0072_noise.wav"
+  },
+  {
+    "scene_id": 73,
+    "drone_file": "1-101404-A-343.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Conversation",
+    "snr_db": 9.32,
+    "mix_path": "../data/scenes\\scene_0073_mix.wav",
+    "drone_path": "../data/scenes\\scene_0073_drone.wav",
+    "noise_path": "../data/scenes\\scene_0073_noise.wav"
+  },
+  {
+    "scene_id": 74,
+    "drone_file": "1-172649-F-400.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 3.2,
+    "mix_path": "../data/scenes\\scene_0074_mix.wav",
+    "drone_path": "../data/scenes\\scene_0074_drone.wav",
+    "noise_path": "../data/scenes\\scene_0074_noise.wav"
+  },
+  {
+    "scene_id": 75,
+    "drone_file": "1-21421-A-462.wav",
+    "bg_file": "ou--Mi6.wav",
+    "noise_type": "Hoover",
+    "snr_db": 13.21,
+    "mix_path": "../data/scenes\\scene_0075_mix.wav",
+    "drone_path": "../data/scenes\\scene_0075_drone.wav",
+    "noise_path": "../data/scenes\\scene_0075_noise.wav"
+  },
+  {
+    "scene_id": 76,
+    "drone_file": "1-61212-A-323.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 2.37,
+    "mix_path": "../data/scenes\\scene_0076_mix.wav",
+    "drone_path": "../data/scenes\\scene_0076_drone.wav",
+    "noise_path": "../data/scenes\\scene_0076_noise.wav"
+  },
+  {
+    "scene_id": 77,
+    "drone_file": "1-51037-A-164.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Conversation",
+    "snr_db": 14.76,
+    "mix_path": "../data/scenes\\scene_0077_mix.wav",
+    "drone_path": "../data/scenes\\scene_0077_drone.wav",
+    "noise_path": "../data/scenes\\scene_0077_noise.wav"
+  },
+  {
+    "scene_id": 78,
+    "drone_file": "1-101336-A-302.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Conversation",
+    "snr_db": 12.26,
+    "mix_path": "../data/scenes\\scene_0078_mix.wav",
+    "drone_path": "../data/scenes\\scene_0078_drone.wav",
+    "noise_path": "../data/scenes\\scene_0078_noise.wav"
+  },
+  {
+    "scene_id": 79,
+    "drone_file": "1-19111-A-244.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 3.97,
+    "mix_path": "../data/scenes\\scene_0079_mix.wav",
+    "drone_path": "../data/scenes\\scene_0079_drone.wav",
+    "noise_path": "../data/scenes\\scene_0079_noise.wav"
+  },
+  {
+    "scene_id": 80,
+    "drone_file": "2-108767-A-90.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 4.09,
+    "mix_path": "../data/scenes\\scene_0080_mix.wav",
+    "drone_path": "../data/scenes\\scene_0080_drone.wav",
+    "noise_path": "../data/scenes\\scene_0080_noise.wav"
+  },
+  {
+    "scene_id": 81,
+    "drone_file": "1-56270-A-294.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.31,
+    "mix_path": "../data/scenes\\scene_0081_mix.wav",
+    "drone_path": "../data/scenes\\scene_0081_drone.wav",
+    "noise_path": "../data/scenes\\scene_0081_noise.wav"
+  },
+  {
+    "scene_id": 82,
+    "drone_file": "2-102567-C-354.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Conversation",
+    "snr_db": 3.77,
+    "mix_path": "../data/scenes\\scene_0082_mix.wav",
+    "drone_path": "../data/scenes\\scene_0082_drone.wav",
+    "noise_path": "../data/scenes\\scene_0082_noise.wav"
+  },
+  {
+    "scene_id": 83,
+    "drone_file": "1-18527-B-443.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Conversation",
+    "snr_db": 6.35,
+    "mix_path": "../data/scenes\\scene_0083_mix.wav",
+    "drone_path": "../data/scenes\\scene_0083_drone.wav",
+    "noise_path": "../data/scenes\\scene_0083_noise.wav"
+  },
+  {
+    "scene_id": 84,
+    "drone_file": "1-137-A-320.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.0,
+    "mix_path": "../data/scenes\\scene_0084_mix.wav",
+    "drone_path": "../data/scenes\\scene_0084_drone.wav",
+    "noise_path": "../data/scenes\\scene_0084_noise.wav"
+  },
+  {
+    "scene_id": 85,
+    "drone_file": "1-45641-A-272.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 11.12,
+    "mix_path": "../data/scenes\\scene_0085_mix.wav",
+    "drone_path": "../data/scenes\\scene_0085_drone.wav",
+    "noise_path": "../data/scenes\\scene_0085_noise.wav"
+  },
+  {
+    "scene_id": 86,
+    "drone_file": "1-77241-A-31.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 0.15,
+    "mix_path": "../data/scenes\\scene_0086_mix.wav",
+    "drone_path": "../data/scenes\\scene_0086_drone.wav",
+    "noise_path": "../data/scenes\\scene_0086_noise.wav"
+  },
+  {
+    "scene_id": 87,
+    "drone_file": "1-23996-A-350.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 0.54,
+    "mix_path": "../data/scenes\\scene_0087_mix.wav",
+    "drone_path": "../data/scenes\\scene_0087_drone.wav",
+    "noise_path": "../data/scenes\\scene_0087_noise.wav"
+  },
+  {
+    "scene_id": 88,
+    "drone_file": "2-112213-B-394.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 2.22,
+    "mix_path": "../data/scenes\\scene_0088_mix.wav",
+    "drone_path": "../data/scenes\\scene_0088_drone.wav",
+    "noise_path": "../data/scenes\\scene_0088_noise.wav"
+  },
+  {
+    "scene_id": 89,
+    "drone_file": "1-13572-A-461.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 5.47,
+    "mix_path": "../data/scenes\\scene_0089_mix.wav",
+    "drone_path": "../data/scenes\\scene_0089_drone.wav",
+    "noise_path": "../data/scenes\\scene_0089_noise.wav"
+  },
+  {
+    "scene_id": 90,
+    "drone_file": "1-58923-B-270.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 10.23,
+    "mix_path": "../data/scenes\\scene_0090_mix.wav",
+    "drone_path": "../data/scenes\\scene_0090_drone.wav",
+    "noise_path": "../data/scenes\\scene_0090_noise.wav"
+  },
+  {
+    "scene_id": 91,
+    "drone_file": "1-58277-A-33.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Conversation",
+    "snr_db": 13.26,
+    "mix_path": "../data/scenes\\scene_0091_mix.wav",
+    "drone_path": "../data/scenes\\scene_0091_drone.wav",
+    "noise_path": "../data/scenes\\scene_0091_noise.wav"
+  },
+  {
+    "scene_id": 92,
+    "drone_file": "1-24524-A-193.wav",
+    "bg_file": "ou--Mi4.wav",
+    "noise_type": "Hoover",
+    "snr_db": 12.97,
+    "mix_path": "../data/scenes\\scene_0092_mix.wav",
+    "drone_path": "../data/scenes\\scene_0092_drone.wav",
+    "noise_path": "../data/scenes\\scene_0092_noise.wav"
+  },
+  {
+    "scene_id": 93,
+    "drone_file": "1-73123-A-263.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 2.69,
+    "mix_path": "../data/scenes\\scene_0093_mix.wav",
+    "drone_path": "../data/scenes\\scene_0093_drone.wav",
+    "noise_path": "../data/scenes\\scene_0093_noise.wav"
+  },
+  {
+    "scene_id": 94,
+    "drone_file": "1-73123-A-261.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Conversation",
+    "snr_db": 12.96,
+    "mix_path": "../data/scenes\\scene_0094_mix.wav",
+    "drone_path": "../data/scenes\\scene_0094_drone.wav",
+    "noise_path": "../data/scenes\\scene_0094_noise.wav"
+  },
+  {
+    "scene_id": 95,
+    "drone_file": "1-46274-A-182.wav",
+    "bg_file": "ou--Mi3.wav",
+    "noise_type": "Hoover",
+    "snr_db": 11.81,
+    "mix_path": "../data/scenes\\scene_0095_mix.wav",
+    "drone_path": "../data/scenes\\scene_0095_drone.wav",
+    "noise_path": "../data/scenes\\scene_0095_noise.wav"
+  },
+  {
+    "scene_id": 96,
+    "drone_file": "1-63871-A-101.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 12.88,
+    "mix_path": "../data/scenes\\scene_0096_mix.wav",
+    "drone_path": "../data/scenes\\scene_0096_drone.wav",
+    "noise_path": "../data/scenes\\scene_0096_noise.wav"
+  },
+  {
+    "scene_id": 97,
+    "drone_file": "1-31251-A-62.wav",
+    "bg_file": "ou--Mi2.wav",
+    "noise_type": "Conversation",
+    "snr_db": 5.24,
+    "mix_path": "../data/scenes\\scene_0097_mix.wav",
+    "drone_path": "../data/scenes\\scene_0097_drone.wav",
+    "noise_path": "../data/scenes\\scene_0097_noise.wav"
+  },
+  {
+    "scene_id": 98,
+    "drone_file": "1-35687-A-383.wav",
+    "bg_file": "ou--Mi1.wav",
+    "noise_type": "Hoover",
+    "snr_db": 9.9,
+    "mix_path": "../data/scenes\\scene_0098_mix.wav",
+    "drone_path": "../data/scenes\\scene_0098_drone.wav",
+    "noise_path": "../data/scenes\\scene_0098_noise.wav"
+  },
+  {
+    "scene_id": 99,
+    "drone_file": "1-54065-A-454.wav",
+    "bg_file": "ou--Mi5.wav",
+    "noise_type": "Hoover",
+    "snr_db": 12.97,
+    "mix_path": "../data/scenes\\scene_0099_mix.wav",
+    "drone_path": "../data/scenes\\scene_0099_drone.wav",
+    "noise_path": "../data/scenes\\scene_0099_noise.wav"
+  }
+]

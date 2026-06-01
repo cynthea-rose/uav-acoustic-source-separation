@@ -1,0 +1,63 @@
+{
+  "note": "Binary detection F1 uses Conv-TasNet separated drone stem energy. Count F1 uses DroneCountCNN (untrained \u2014 random init). Ground truth count = 1 for all real scenes (one drone file per scene). Install mir_eval and train DroneCountCNN for production-quality scores.",
+  "binary_detection": {
+    "description": "Drone presence detection via separated stem energy threshold",
+    "threshold": 0.1,
+    "n_scenes": 100,
+    "n_detected": 100,
+    "precision": 0.9999999999000001,
+    "recall": 0.9999999999000001,
+    "f1": 0.9999999949
+  },
+  "count_estimation": {
+    "description": "Drone count classification via DroneCountCNN (untrained)",
+    "n_scenes": 100,
+    "macro_precision": 0.0,
+    "macro_recall": 0.0,
+    "macro_f1": 0.0,
+    "per_class_f1": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        100,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  }
+}
