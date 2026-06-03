@@ -226,3 +226,11 @@ Thumbs.db
 
 outputs/*.pt
 outputs/*pth
+venv/
+data/stems/
+data/synthetic/
+src/data/stems/
+src/data/synthetic/
+*.wav
+*.pt
+__pycache__/
